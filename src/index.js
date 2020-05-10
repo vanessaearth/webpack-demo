@@ -5,6 +5,7 @@
 
 // // css文件需要css - loader
 import './css/style.css'
+import './css/index.less'
 
 //img图片需要file-loader
 // import imgSrc from './img/check.png'
